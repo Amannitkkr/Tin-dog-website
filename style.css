@@ -1,0 +1,75 @@
+
+#title{
+    background-color: #ff4c68;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+.container-fluid{
+    padding:3% 15% 3% 15%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h1{
+    font-family: fantasy;
+    font-size: 10cm;
+}
+.head-image{
+    transform: rotate(30deg);
+    height: 80%;
+    
+}
+#cta{
+    font-size: 45px;
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 5% 0 5% 0;
+    
+}
+#cta>h3{
+    color: white;
+}
+.main-text{
+    padding-bottom: 5%;
+}
+
+#footer{
+    padding:5% 5%;
+    text-align: center;
+    
+}
+#features{
+    text-align: center;
+    padding: 3% 10%;
+}
+#testimonials{
+    background-color: #ff4c68;
+    text-align: center;
+    color:white
+}
+.test-image{
+    height: 50px;
+    width:50px;
+    border-radius: 25px;
+    margin-top:20px;
+    margin-right: 20px;
+}
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding:3% 5%;
+}
+.press-logo{
+    width:20%;
+    
+}
+#pricing{
+    text-align: center;
+    padding:5px 5px;
+}
+.card-deck{
+    display: flex;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top:50px;
+    margin-bottom: 50px;
+    
+}
